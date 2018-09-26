@@ -1,4 +1,4 @@
-# Tenzorum Name Service
+![Tenzorum Name Service](./assets/title.jpg)
 
 > 📖🔍 Documents of the Tenzorum Name Service.
 
